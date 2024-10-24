@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "0fd8310f2c5dd592",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e1eddabf0728f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb3c6720bb99300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmin/Algorithms and data structures/Algorithms/Вставки (Insertion sort).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вставки (Insertion sort)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7f095bbea634428",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c9419ee626d6393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8ab7d951616241",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c35da92fc38ae8a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b27c919101c79ab0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45e38993d44680c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae248ff9956e3eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a9b6adda90e514",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programmin/Algorithms and data structures/Algorithms/Вставки (Insertion sort).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Вставки (Insertion sort)"
+            }
+          },
+          {
+            "id": "3bff6bd429e69dab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programmin/Algorithms and data structures/Algorithms/Вставки (Insertion sort).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Вставки (Insertion sort)"
+            }
+          },
+          {
+            "id": "f6cb3e94f10a6f80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12e46e8ce1cec1a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programmin/Algorithms and data structures/Algorithms/Вставки (Insertion sort).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Вставки (Insertion sort)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0eb3c6720bb99300",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Programmin/Langs/SQL",
+    "Programmin/Langs/Python",
+    "Programmin/Langs/Golang",
+    "Programmin/Langs/CSharp",
+    "Programmin/Langs",
+    "Programmin/Databases",
+    "Programmin/Algorithms and data structures/Algorithms/Сортировка бинарным деревом.md",
+    "Programmin/Algorithms and data structures/Algorithms/Пузырьком (Bubble sort).md",
+    "Programmin/Algorithms and data structures/Algorithms/Выбором (Selection sort).md",
+    "Programmin/Algorithms and data structures/Algorithms/Вставки (Insertion sort).md",
+    "Programmin/Algorithms and data structures/Algorithms",
+    "Programmin/Algorithms and data structures",
+    "Programmin"
+  ]
+}
